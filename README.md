@@ -15,7 +15,7 @@ I enjoy building dynamic applications that solve real-world problems—from comp
 
 ### 🌱 What I am doing:
 * Honing my frontend-focused skill set through hands-on development and industry internships.
-* Serving as an Active Core Member (Content Domain) for Google Developer Group On-Campus at MITS DU for the 2024 - 2025 session.
+* Working on building projects and hackathons.
 
 ### 🚀 What I will do:
 * Continue creating robust projects in full-stack web development and machine learning.
